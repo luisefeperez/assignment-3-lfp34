@@ -1,0 +1,19 @@
+---
+title: "This Is A Title"
+author: "Luis"
+date: "3/2/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+Luis F. and his gitaccount https://github.com/luisefeperez 
+
+Gemma and her super account https://github.com/gemdelrossi
+
+And this cool image 
+
+![General Kenobi!](https://i1.wp.com/nerdbot.com/wp-content/uploads/2020/01/1r3fn3-e1579990017466.jpg?fit=786%2C499&ssl=1)
