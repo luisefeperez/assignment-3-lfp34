@@ -1,0 +1,14 @@
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Gemma Del Rossi
+
+Hello!! Some things about me: 
+
+* I am an identical twin (no we don't have telepathy, and no you don't want to have twins)
+* I like doing yoga 
+* My **very** nerdy hobby is playing minecraft (with said twin sister)
+* I have a cat named Lucy and she hates everyone but me
+
